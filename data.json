@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-05-18T00:00:00Z",
+  "count": 16,
+  "_note": "초기 시드 데이터입니다. GitHub Actions가 실행되면 Notion에서 가져온 최신 데이터로 덮어씁니다.",
+  "events": [
+    { "title": "세계 우유의 날", "start": "2026-06-01", "end": null, "type": "기념일", "dept": ["마케팅","콘텐츠"], "priority": "낮음", "keywords": ["먹거리/식음료"], "action": "유제품 카테고리 SNS 카드 1건", "memo": null },
+    { "title": "여름 대비 시즌 (다이어트·홈트)", "start": "2026-06-01", "end": "2026-06-30", "type": "시즌 이슈", "dept": ["마케팅","콘텐츠","영업/세일즈"], "priority": "높음", "keywords": ["여름/휴가","보건/안전"], "action": "다이어트·홈트레이닝 앱 프로모션, 여름 바디케어 콘텐츠 시리즈", "memo": "월 전체 진행되는 시즌 트렌드" },
+    { "title": "세계 환경의 날", "start": "2026-06-05", "end": null, "type": "기념일", "dept": ["마케팅","브랜드/PR","콘텐츠"], "priority": "높음", "keywords": ["환경/지속가능"], "action": "제로웨이스트 캠페인 페이지 오픈, 플로깅 이벤트 사내 공지", "memo": "이달의 테마" },
+    { "title": "현충일", "start": "2026-06-06", "end": null, "type": "공휴일", "dept": ["마케팅","브랜드/PR","경영기획"], "priority": "높음", "keywords": ["정치/역사"], "action": "광고/프로모션 톤다운, 추모 메시지 검토", "memo": null },
+    { "title": "세계 해양의 날", "start": "2026-06-08", "end": null, "type": "기념일", "dept": ["콘텐츠","브랜드/PR"], "priority": "낮음", "keywords": ["환경/지속가능"], "action": "환경 시리즈 콘텐츠와 묶어 발행", "memo": null },
+    { "title": "6·10민주항쟁 기념일", "start": "2026-06-10", "end": null, "type": "기념일", "dept": ["브랜드/PR"], "priority": "보통", "keywords": ["정치/역사"], "action": "광고 게재 시점 검토 (감수성 이슈)", "memo": null },
+    { "title": "2026 FIFA 북중미 월드컵", "start": "2026-06-11", "end": "2026-07-19", "type": "스포츠", "dept": ["마케팅","콘텐츠","영업/세일즈","브랜드/PR"], "priority": "높음", "keywords": ["월드컵/스포츠"], "action": "응원 굿즈/유니폼 프로모션, 경기 일정 콘텐츠 시리즈, 라이브 응원 마케팅", "memo": "이달의 테마 · 6/11~7/19 전 기간" },
+    { "title": "세계 헌혈자의 날", "start": "2026-06-14", "end": null, "type": "기념일", "dept": ["HR/조직문화","브랜드/PR"], "priority": "보통", "keywords": ["보건/안전"], "action": "사내 단체 헌혈 캠페인 검토", "memo": null },
+    { "title": "키스데이", "start": "2026-06-14", "end": null, "type": "사회/문화", "dept": ["마케팅","콘텐츠"], "priority": "낮음", "keywords": ["가정/관계"], "action": "커플 타깃 프로모션 가능 여부 검토", "memo": null },
+    { "title": "노인학대 예방의 날", "start": "2026-06-15", "end": null, "type": "기념일", "dept": ["브랜드/PR"], "priority": "낮음", "keywords": ["보건/안전"], "action": "정보성 카드뉴스 검토", "memo": null },
+    { "title": "단오", "start": "2026-06-19", "end": null, "type": "절기", "dept": ["마케팅","콘텐츠"], "priority": "보통", "keywords": ["먹거리/식음료"], "action": "전통 절기 콘텐츠, 수리취떡·창포 관련 키워드 활용", "memo": null },
+    { "title": "세계 요가의 날", "start": "2026-06-21", "end": null, "type": "기념일", "dept": ["마케팅","콘텐츠"], "priority": "보통", "keywords": ["보건/안전","여름/휴가"], "action": "여름 대비 홈트레이닝 콘텐츠 시리즈와 연결", "memo": null },
+    { "title": "하지", "start": "2026-06-21", "end": null, "type": "절기", "dept": ["콘텐츠"], "priority": "낮음", "keywords": ["여름/휴가"], "action": "여름 시즌 본격화 신호 — 시즌 콘텐츠 발행 시점", "memo": null },
+    { "title": "방학/휴가 시즌 진입", "start": "2026-06-22", "end": "2026-06-30", "type": "시즌 이슈", "dept": ["마케팅","영업/세일즈"], "priority": "보통", "keywords": ["여름/휴가"], "action": "여행/네일/제모/스포츠센터 카테고리 프로모션 준비", "memo": null },
+    { "title": "6·25 전쟁일", "start": "2026-06-25", "end": null, "type": "기념일", "dept": ["브랜드/PR"], "priority": "보통", "keywords": ["정치/역사"], "action": "광고 톤 검토, 호국보훈의 달 마무리 메시지", "memo": null },
+    { "title": "마약퇴치의 날", "start": "2026-06-26", "end": null, "type": "기념일", "dept": ["브랜드/PR"], "priority": "낮음", "keywords": ["보건/안전"], "action": "공익 캠페인 협업 가능 여부 검토", "memo": null }
+  ]
+}
